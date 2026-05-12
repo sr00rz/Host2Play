@@ -21,7 +21,11 @@ except ImportError:
 # ==============================================================================
 RENEW_URLS = [
     "https://host2play.gratis/server/renew?i=32995457-c702-4c99-bfbb-5848f962df3c",
-    # 添加更多链接
+    "https://host2play.gratis/server/renew?i=735f5c2d-32b6-4c56-b4d3-6d071d1c495d",
+    "https://host2play.gratis/server/renew?i=26aada10-8bdd-4977-8962-bf1f6d153535",
+    "https://host2play.gratis/server/renew?i=956f95a1-c92f-4abe-b960-4ee783f63d16",
+    "https://host2play.gratis/server/renew?i=bb9db434-4f6d-47e2-a2d7-d958985f29ae",
+    # 德国，瑞典，美国，英国，印度
 ]
 
 MAX_CAPTCHA = 3
